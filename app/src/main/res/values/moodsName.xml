@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array
+        name="moodName">
+        <item name="Happy">Happy</item>
+        <item name="Relaxed">Relaxed</item>
+        <item name="Calm">Calm</item>
+        <item name="Concentrated">Concentrated</item>
+        <item name="Agitated">Agitated</item>
+        <item name="Angry">Angry</item>
+        <item name="Sad">Sad</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array
+        name="moodTitles">
+        <item name="Happy">How to be happier</item>
+        <item name="Relaxed">What is so good about Relaxation?</item>
+        <item name="Calm">Create a "Calm Down" Kit</item>
+        <item name="Concentrated">Profile page</item>
+        <item name="Agitated">Relaxation techniques</item>
+        <item name="Angry">Control anger before it controls you</item>
+        <item name="Sad">Happiness Is Possible, Again</item>
+    </string-array>
+
+</resources>

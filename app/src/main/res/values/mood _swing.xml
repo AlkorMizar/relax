@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mood_swing">
+        <item name = "Stability">Human beings yearn for predictability and stability. We don’t function well in unstable conditions, or more accurately, we don’t think we function well in unstable conditions. We actually work very well in chaotic situations, but we still yearn for stability.
+            But it’s true – we function very well in chaos. In fact, chaos is the norm, not the exception. The forces that work against chaos are predictability and stability, so when life and sport become difficult, stability looks very inviting.
+            I like to think of our brains and minds as snow globes sold in airport bookstores. With the snow resting softly on the ground, the scene is tranquil and picturesque. But with a flick of the wrist, the water-filled globe suddenly turns into a raging blizzard. Little pieces of imitation snow fly everywhere, continually pushed around by the current. Only after a time does stability return – the water quiets and the snow settles to the bottom of the globe. You can’t speed this process up.
+        </item>
+        <item name="swing">
+            Often, lifestyle factors play a role in the onset of mood swings. People may have sudden changes in mood if they are:
+            - experiencing a significant life change, such as moving home or changing job
+            - feeling stressed or overwhelmed
+            - not getting enough sleep
+            - not eating healthily
+            - taking medications that impact mood or sleep
+            Regular and severe mood changes, however, can indicate an underlying condition. Some conditions that lead to mood swings can affect both males and females, while some affect females only.
+        </item>
+    </string-array>
+
+</resources>

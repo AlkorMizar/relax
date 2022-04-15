@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="drawableRecom">
+        <item name="sad">@drawable/sad</item>
+        <item name="happy">@drawable/happy</item>
+        <item name="concentrated">@drawable/concentrated</item>
+        <item name="relax">@drawable/relax</item>
+        <item name="calm">@drawable/calm</item>
+        <item name="agitated">@drawable/agitated</item>
+        <item name="angry">@drawable/angry</item>
+    </integer-array>
+
+</resources>

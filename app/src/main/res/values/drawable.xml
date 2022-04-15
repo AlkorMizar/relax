@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="drawable">
+        <item name="app">@drawable/nav</item>
+        <item name="nav">@drawable/nav</item>
+        <item name="main">@drawable/main</item>
+        <item name="profile">@drawable/profile</item>
+        <item name="music">@drawable/music</item>
+        <item name="add">@drawable/stat</item>
+    </integer-array>
+
+</resources>

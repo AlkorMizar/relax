@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="titles">
+        <item>About application</item>
+        <item>Navigation</item>
+        <item>Main page</item>
+        <item>Profile page</item>
+        <item>Music page</item>
+        <item>Additionally</item>
+    </string-array>
+</resources>

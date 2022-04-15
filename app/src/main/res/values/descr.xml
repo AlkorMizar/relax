@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="description">
+        <item name="app">This application gives you allows you to track you mood through day. It\'s music recommendations base on your mood pattern. Depending on your current mood it recommends meditation techniques.</item>
+        <item name="nav">There two way to navigate through app. First side menu were you can go to all pages of app. Second is bottom menu where you can go to home, profile and music</item>
+        <item name="main">On this page you can choose how do you feel right now. Check today\'s horoscope. Get meditation recommendations.</item>
+        <item name="profile">Here you can add photos. Edit information about you. Log out.</item>
+        <item name="music">Here you can listen music according to your mood</item>
+        <item name="add">In side menu you can see your BMI and go to page with your mood pattern, or check your statistics</item>
+    </string-array>
+</resources>

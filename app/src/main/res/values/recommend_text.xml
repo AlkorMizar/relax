@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="textRecom">
+        <item name="sad">Why sad? Happy.</item>
+        <item name="happy">Party banger</item>
+        <item name="concentrated">I do not want to study, I want to get married</item>
+        <item name="relax">Hydrate!!!!!!!</item>
+        <item name="calm">Stay calm!!!!!</item>
+        <item name="agitated">Breath in, breath out.</item>
+        <item name="angry">Chill out man ╮(. ❛ ᴗ ❛.)╭</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/almendra_display</item>
+        <item>@font/anton</item>
+        <item>@font/arbutus</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/brawler</item>
+        <item>@font/bree_serif</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/courgette</item>
+        <item>@font/dotgothic16</item>
+        <item>@font/geostar_fill</item>
+        <item>@font/judson</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/lobster_two_italic</item>
+        <item>@font/playfair_display_sc_black_italic</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/sonsie_one</item>
+    </array>
+</resources>

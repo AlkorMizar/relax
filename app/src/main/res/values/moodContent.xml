@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="moodContent">
+        <item name="Happy">1. Eat nourishing food. Consume a variety of foods from all the food groups to get a range of nutrients to energize you throughout the day. Opt for fresh or frozen fruits and vegetables, especially nutrient-dense dark, leafy greens and broccoli, as well as orange vegetables, including carrots and sweet potatoes.
+            2. Sleep seven to eight hours a night. Prioritizing sleep is one of the best things you can do to set yourself up for a successful, energized day.
+            3. Keep company with good people. Maximize the amount of time that you spend with people you enjoy being around. Connecting with others who radiate positivity and have similar interests will excite and energize you.
+            4. Get regular exercise. Exercise relieves stress and tension, strengthens muscles and boosts endurance, which helps your body to work more efficiently during other physical tasks or activities.
+            5. Think good thoughts for others. Maintaining a compassionate mindset is another way to conserve energy.
+        </item>
+        <item name="Relaxed">1. It is inexpensive and easy to practise. All you need is a comfortable bed or chair, and tape or CD player
+to listen to a suitable guided recording to begin with.
+            2. You are in control. You decide when and how often you want to do it. You can learn to control the way
+you feel.
+            3. Symptoms can be relieved. Stress-related symptoms such as high blood pressure, pain, digestive
+disturbances, nausea and fatigue may be reduced as the body relaxes.
+            4. The immune system can be boosted. When under stress, people have higher levels of cortisol, an
+immune suppressant, in their system. Therapeutic Relaxation can reduce the amount of cortisol,resulting in a more efficient immune system.
+            5. You can boost your energy levels. Half an hour of Relaxation can be as restful as two hours of sleep</item>
+        <item name="Calm">Think about objects that help engage all your senses. When you can look, hear, see, smell, and touch calming things, you can change your emotional state. So a calm down kit might include scented hand lotion, a picture of a serene landscape, a spiritual passage you can read aloud, and a few pieces of your favorite candy. Include things that you know will help you remain calm.
+
+You also might create a virtual calm down kit that you can take everywhere. These are things that you can call upon when needed and are more portable. For instance, calming music and images, guided meditation, or instructions for breathing exercises could be stored in a special folder on your smartphone.</item>
+        <item name="Concentrated">1.Zone out. It might seem counter-intuitive, but allowing your mind to wander may be one of the best approaches if you are struggling to focus. Giving yourself permission to think about anything but work not only takes the guilt out of mind wandering, it also helps tick a few things off the mental to-do list that caused the mind wandering in the first place.
+            2.Make it harder. The key is to give your mind just enough to do, so that your brain does not have the chance to look elsewhere for stimulation. For most people it might be a case of trial and error to find what works for them, but since screening out distractions can be tiring, perhaps this is one to use sparingly, when all else has failed.
+            3.Stop working. When you’re up against it, taking a break might be the last thing on your mind. But there is a huge amount of evidence to suggest it can actually help you get more done.  The challenge is working out when to take a break, for how long, and what to do with that downtime.
+            4.Don’t try so hard. The most successful strategy for staying on course was to focus for a while, and then to take a short break before going back to concentrating. People who tried to be ‘on’ all the time made more mistakes overall.
+            </item>
+        <item name="Agitated">Autogenic relaxation. Autogenic means something that comes from within you. In this relaxation technique, you use both visual imagery and body awareness to reduce stress.
+
+            You repeat words or suggestions in your mind that may help you relax and reduce muscle tension. For example, you may imagine a peaceful setting and then focus on controlled, relaxing breathing, slowing your heart rate, or feeling different physical sensations, such as relaxing each arm or leg one by one.</item>
+        <item name="Angry">1. Identify Triggers.
+        2.Evaluate Your Anger. Ask yourself if your anger is a friend or an enemy.
+        3.Recognize Warning Signs.
+        4.Step Away. Trying to win an argument or sticking it out in an unhealthy situation will only fuel your anger.
+        5.Talk to a Friend.
+        6.Get Moving. One of the best ways to put that surge to good use is to engage in physical activity.
+        7.Manage Your Thoughts. Angry thoughts add fuel to your anger.
+        8.Change the Channel. Ruminating about an upsetting situation fuels angry feelings.
+        9.Focus on Relaxation.
+        10.Explore Your Feelings. Sometimes it helps to take a moment and think about what emotions might be lurking beneath your anger. </item>
+        <item name="Sad">The good thing about being happy again is, if you have lost it, you can find it. It is attainable whether you decide to reach back or move toward unchartered territory for a new place of happiness. Of course, life is unpredictable, and we are not promised 365 days of joy, but we can strive to have more good days than bad. But even in those bad days, we can appreciate the good that we have experienced.
+            Results from a study demonstrated that engagement in meaningful activities as captured by hedonic and eudaimonic well-being processes might promote well-being outcomes.
+            This is quite intriguing information because hedonic focuses on pleasure, and eudaimonic pertains to engagement functions. To obtain happiness, you must have both. That is why it is essential to engage in things you enjoy, and it is often suggested to turn hobbies into careers. As the saying goes, "If you do something you love, you will never work a day in your life." And that is where the pleasure comes in; if you enjoy the engagement process, pleasure will follow.</item>
+    </string-array>
+
+
+</resources>
